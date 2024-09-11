@@ -57,7 +57,7 @@
 	{"code": "CU", "code2": "CUB", "name": "Cuba",  "timezone": "Eastern Standard Time", "utc": "utc-05:00", "mobileCode": "+53"},
 	{"code": "CW", "code2": "CUW", "name": "Curaçao", "timezone": "SA Western Standard Time", "utc": "utc-04:00", "mobileCode": "+599"},
 	{"code": "CY", "code2": "CYP", "name": "Cyprus", "timezone": "E. Europe Standard Time", "utc": "utc+02:00", "mobileCode": "+357"},
-	{"code": "CZ", "code2": "CZE", "name": "Czech Republic", "timezone": "Central Europe Standard Time", "utc": "utc+01:00", "mobileCode": "+420"},
+	{"code": "CZ", "code2": "CZE", "name": "Czechia", "timezone": "Central Europe Standard Time", "utc": "utc+01:00", "mobileCode": "+420"},
 	{"code": "DK", "code2": "DNK", "name": "Denmark", "timezone": "Romance Standard Time", "utc": "utc+01:00", "mobileCode": "+45"},
 	{"code": "DJ", "code2": "DJI", "name": "Djibouti", "timezone": "E. Africa Standard Time", "utc": "utc+03:00", "mobileCode": "+253"},
 	{"code": "DM", "code2": "DMA", "name": "Dominica", "timezone": "SA Western Standard Time", "utc": "utc-04:00", "mobileCode": "+1-767"},
